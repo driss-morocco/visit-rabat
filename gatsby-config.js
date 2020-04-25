@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Things To Do in Rabat`,
+    description: `Rabat is the capital of Morocco and one of the country's four imperial cities. However, it seems that many travellers pass by it because they don't know what to see in Rabat.`,
     author: `@gatsbyjs`,
   },
   plugins: [

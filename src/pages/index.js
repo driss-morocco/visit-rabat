@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Things To Do in Rabat" />
     <h1>Things To Do in Rabat</h1>
    <p>Rabat is the capital of Morocco and one of the country's four imperial cities. However, it seems that many travellers pass by it because they don't know what to see in Rabat. Contrary to what it may seem, <a href="https://thinkmorocco.com/things-to-do-in-rabat/">Rabat is a quiet, modern capital</a>, but it still keeps tradition and has corners that will surprise you.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tour_Hassan-Rabat.jpg" alt="things to do in rabat" width="800" height="533" /></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tour_Hassan-Rabat.jpg" alt="things to do in rabat" width="800" height="533" /></p>
 <p>Unlike its neighbour Casablanca, Rabat has a more relaxed coastal feel than its neighbour. In addition, the traffic is much more bearable. What there is to see in Rabat may not be as prominent a priori as in other cities in the country, such as Marrakech or Fez. But that may be where the charm of this capital city lies, and it doesn't mind that sometimes it is not taken as such. Rabat has enough places to visit for at least one day. The advantage is that you can discover the city at your own pace and without rushing.</p>
 <p>If you are also wondering what to see in Rabat, we will tell you about some of the places where you can discover the history of this city, as well as other places you cannot miss or places to stay.</p>
 <p>What to see in Rabat</p>
